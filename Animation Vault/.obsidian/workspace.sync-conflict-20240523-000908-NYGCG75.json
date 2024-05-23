@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "a6d48bcb21f9cc44",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcf48ef83f59bbb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8ec79eef8bafdb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Тема для разговора на собрание.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f91322b7b1b4a17",
+    "type": "split",
+    "children": [
+      {
+        "id": "37b2f5198a711235",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15a92ce496f78f64",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "05d35bb622aa17ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f36b16deb8f4a76",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c1476e16d2f2e95",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfe65f1e51731ca8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a90fb953f0bd37b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Тема для разговора на собрание.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9cd97430e35e652",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Тема для разговора на собрание.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5148dba52eaa7237",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f4a36132e5681630",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Тема для разговора на собрание.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "b8ec79eef8bafdb7",
+  "lastOpenFiles": [
+    "Тема для разговора на собрание.md",
+    "Animation plan/Тема для разговора на собрание.md",
+    "Animation plan/~syncthing~Тема для разговора на собрание.md.tmp",
+    "Animation plan",
+    "Test.md",
+    "create a link.md"
+  ]
+}

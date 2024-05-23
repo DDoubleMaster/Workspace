@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "7d2655b1f4422775",
+    "type": "split",
+    "children": [
+      {
+        "id": "59985d77c8ae0915",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aebea0e4bd7dc4c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Тема для разговора на собрание.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43a6883807a2dda3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cf37ee1cdc231eae",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "477e3d5d156c214d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8b00e03febd42ee0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "52d70edeb8a59d3d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "181d2677b459375e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8f90e5d2a5573ebd",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Тема для разговора на собрание.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "fd5dbd642f0c3043",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Тема для разговора на собрание.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "707170c795f48c99",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Тема для разговора на собрание.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "aebea0e4bd7dc4c7",
+  "lastOpenFiles": [
+    "Тема для разговора на собрание.md",
+    "Untitled.md",
+    "Untitled"
+  ]
+}
