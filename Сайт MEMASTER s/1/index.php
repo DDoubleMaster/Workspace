@@ -27,7 +27,7 @@
     <!-- Блок секция для карточек товаров -->
     <div class="cards">
         <div class="card">
-            <img src="https://picsum.photos/id/1231/200" alt="">
+            <img src="./assets/images/suv1.jpg" alt="">
             <a href="./one_product.php">Народные</a>
             <div class="card_description">
                 <span>8$</span>
@@ -35,7 +35,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="https://picsum.photos/id/1231/200" alt="">
+            <img src="./assets/images/suv2.jpg" alt="">
             <a href="./one_product.php">Народные</a>
             <div class="card_description">
                 <span>8$</span>
@@ -43,7 +43,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="https://picsum.photos/id/1231/200" alt="">
+            <img src="./assets/images/suv3.jpg" alt="">
             <a href="./one_product.php">Народные</a>
             <div class="card_description">
                 <span>8$</span>
@@ -51,7 +51,7 @@
             </div>
         </div>
         <div class="card">
-            <img src="https://picsum.photos/id/1231/200" alt="">
+            <img src="./assets/images/suv4.jpg" alt="">
             <a href="./one_product.php">Народные</a>
             <div class="card_description">
                 <span>8$</span>
